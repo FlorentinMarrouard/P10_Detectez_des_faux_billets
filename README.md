@@ -37,7 +37,7 @@ Par exemple, le livrable peut être nommé comme suit : Dupont_Jean_1_code_01202
 
 Durant la présentation orale, votre mentor jouera le rôle de Marie, la responsable du projet à l’ONCFM à qui vous présentez vos résultats : 
 
-**Présentation des livrables (20 minutes) **
+**Présentation des livrables (20 minutes)**
 
 Présentation de l’ensemble de votre cheminement, des traitements et analyses réalisés en amont, des différentes pistes explorées pour la construction de l’algorithme, et du modèle final retenu (15 minutes) ;
 Test de l’algorithme en direct avec un jeu de données qui vous sera fourni pendant la soutenance, ayant la même forme que le jeu suivant : FICHIER billets_production.csv (5 minutes).
